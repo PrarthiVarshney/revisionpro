@@ -1,0 +1,39 @@
+.static{
+    display: flex;
+    justify-content: center;   
+    border: 3px solid black;
+}
+div{
+    background-color: black;
+    border: 0.5px;;
+}
+.photos{
+    height:350px;
+    width:280px;
+    border:2px solid white;
+    display:flex;
+    flex-direction: column;
+    margin:2px; 
+}
+#button{
+    color:white;
+background-color: brown;
+height: 40px;
+width:100px;
+
+}
+i{
+    color:white;
+    height:50px;
+    width:60px;
+}
+#tasty{
+    color: white;
+    text-align: center;
+}
+#nature{
+    height: 50px;
+    width:50px;
+    margin:auto;
+    display: block;
+}
